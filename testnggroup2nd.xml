@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suitegroup2nd">
-  <test thread-count="5" name="Testgroup2nd">
+ <!-- Test -->
+  <test thread-count="4" name="Testgroup2nd">
     <classes>
       <class name="anotation2nd.group2nd"/>
      
